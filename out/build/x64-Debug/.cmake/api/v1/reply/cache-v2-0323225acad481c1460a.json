@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug"
+			"value" : "d:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/86188/source/repos/pcClientTest"
+			"value" : "D:/Users/86188/source/repos/pcClientTest"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/86188/Source/Repos/pcClientTest/out/install/x64-Debug"
+			"value" : "D:/Users/86188/Source/Repos/pcClientTest/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "pcClientTest"
+			"value" : "weClientCmake"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -1026,19 +1026,19 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "pcClientTest_BINARY_DIR",
+			"name" : "WS2_LIBRARY",
 			"properties" : 
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
+					"value" : "Path to a library."
 				}
 			],
-			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug"
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files (x86)/Windows Kits/10/Lib/10.0.18362.0/um/x64/WS2_32.Lib"
 		},
 		{
-			"name" : "pcClientTest_SOURCE_DIR",
+			"name" : "weClientCmake_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1047,7 +1047,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest"
+			"value" : "D:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug"
+		},
+		{
+			"name" : "weClientCmake_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Users/86188/source/repos/pcClientTest"
 		}
 	],
 	"kind" : "cache",

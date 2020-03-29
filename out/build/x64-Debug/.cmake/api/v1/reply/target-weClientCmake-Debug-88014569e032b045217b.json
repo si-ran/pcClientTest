@@ -52,39 +52,39 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/include"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libavcodec/avcodec.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libavcodec/avcodec.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libavformat/avformat.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libavformat/avformat.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libavutil/avutil.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libavutil/avutil.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libavdevice/avdevice.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libavdevice/avdevice.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libavfilter/avfilter.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libavfilter/avfilter.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libpostproc/postprocess.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libpostproc/postprocess.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libswresample/swresample.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libswresample/swresample.h"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/86188/source/repos/pcClientTest/libswscale/swscale.h"
+					"path" : "D:/Users/86188/source/repos/pcClientTest/libswscale/swscale.h"
 				}
 			],
 			"language" : "CXX",
@@ -107,11 +107,11 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:X86 /debug /INCREMENTAL /subsystem:console",
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "\"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86\\WS2_32.Lib\"",
+				"fragment" : "\"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x64\\WS2_32.Lib\"",
 				"role" : "libraries"
 			},
 			{

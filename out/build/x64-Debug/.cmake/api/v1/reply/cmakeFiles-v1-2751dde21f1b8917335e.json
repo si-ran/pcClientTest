@@ -667,16 +667,13 @@
 		{
 			"isGenerated" : true,
 			"path" : "out/build/x64-Debug/CMakeFiles/3.16.19112601-MSVC_2/CMakeCXXCompiler.cmake"
-		},
-		{
-			"path" : "pcClient/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug",
-		"source" : "C:/Users/86188/source/repos/pcClientTest"
+		"build" : "D:/Users/86188/source/repos/pcClientTest/out/build/x64-Debug",
+		"source" : "D:/Users/86188/source/repos/pcClientTest"
 	},
 	"version" : 
 	{

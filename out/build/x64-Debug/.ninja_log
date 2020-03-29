@@ -1,0 +1,6 @@
+# ninja log v5
+1	7	0	clean	b049eaf95b698d8c
+8	725	607191841	CMakeFiles/weClientCmake.dir/src/pages/LiveList.cpp.obj	7809824bf53f60f5
+4	746	607191841	CMakeFiles/weClientCmake.dir/src/pages/LoginPage.cpp.obj	24e28f0349a2274e
+6	749	607191841	CMakeFiles/weClientCmake.dir/src/pages/LivePage.cpp.obj	9287347a63c72e03
+1	751	607191841	CMakeFiles/weClientCmake.dir/src/Boot.cpp.obj	15bfdf60e63dd6f7

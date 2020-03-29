@@ -1,3 +1,5 @@
+.out
+.lib
 .vs
 CMakeLists.txt.user
 CMakeCache.txt

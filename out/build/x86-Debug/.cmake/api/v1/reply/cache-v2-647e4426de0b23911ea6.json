@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/86188/source/repos/pcClientTest/out/build/x86-Debug"
+			"value" : "d:/Users/86188/source/repos/pcClientTest/out/build/x86-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/86188/source/repos/pcClientTest"
+			"value" : "D:/Users/86188/source/repos/pcClientTest"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/86188/Source/Repos/pcClientTest/out/install/x86-Debug"
+			"value" : "D:/Users/86188/Source/Repos/pcClientTest/out/install/x86-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1038,30 +1038,6 @@
 			"value" : "C:/Program Files (x86)/Windows Kits/10/Lib/10.0.18362.0/um/x86/WS2_32.Lib"
 		},
 		{
-			"name" : "pcClientTest_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest/out/build/x86-Debug"
-		},
-		{
-			"name" : "pcClientTest_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest"
-		},
-		{
 			"name" : "weClientCmake_BINARY_DIR",
 			"properties" : 
 			[
@@ -1071,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest/out/build/x86-Debug"
+			"value" : "D:/Users/86188/source/repos/pcClientTest/out/build/x86-Debug"
 		},
 		{
 			"name" : "weClientCmake_SOURCE_DIR",
@@ -1083,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/86188/source/repos/pcClientTest"
+			"value" : "D:/Users/86188/source/repos/pcClientTest"
 		}
 	],
 	"kind" : "cache",
